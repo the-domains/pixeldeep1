@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Digital Marketing
-datePublished: '2016-04-13T07:18:51.031Z'
-dateModified: '2016-04-13T07:12:00.358Z'
+datePublished: '2016-04-13T08:43:30.803Z'
+dateModified: '2016-04-13T08:43:29.995Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-13-digital-marketing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-digital-marketing.md
-published: true
 url: digital-marketing/index.html
 _type: Article
 
