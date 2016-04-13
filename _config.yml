@@ -1,6 +1,6 @@
 name: pixeldeep1
 favicon: null
-layout_spectrum: 0.36824
+layout_spectrum: 0.83135
 typography_spectrum: 0.14212
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#56555a'
     - '#16dffd'
     - '#fe7966'
-  brandStrength: 0.75
+  brandStrength: 0.0625
   lightness: 0.6875
   saturation: 0.9375
   rhythmicContrast: 0.5
