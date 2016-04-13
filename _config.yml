@@ -1,7 +1,7 @@
 name: pixeldeep1
 favicon: null
-layout_spectrum: 0.809234149986878
-typography_spectrum: 0.4623694147448987
+layout_spectrum: 0.61062
+typography_spectrum: 0.14212
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5115377891343087
-  lightness: 0.11487457389011979
-  saturation: 0.21374225011095405
-  rhythmicContrast: 0.5809613463934511
+    - '#9aa7af'
+    - '#ce4123'
+    - '#56555a'
+    - '#16dffd'
+    - '#fe7966'
+  brandStrength: 0.4375
+  lightness: 0.375
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
