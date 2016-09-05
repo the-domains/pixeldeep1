@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: Digital Marketing
-datePublished: '2016-09-02T04:26:40.107Z'
-dateModified: '2016-09-02T04:26:39.497Z'
+datePublished: '2016-09-02T05:04:51.808Z'
+dateModified: '2016-09-02T05:04:51.205Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-13-digital-marketing.md
@@ -17,6 +16,8 @@ publisher:
   domain: null
   url: null
   favicon: null
+via: {}
+starred: false
 url: digital-marketing/index.html
 _type: Article
 
