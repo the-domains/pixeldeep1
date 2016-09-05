@@ -1,4 +1,18 @@
-typography_spectrum: 0.14212
+title: PD
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: 'Design, Social & Advertising.'
 color:
   saturation: 0.9375
   brandStrength: 0.0625
@@ -10,16 +24,6 @@ color:
     - '#16dffd'
     - '#fe7966'
   lightness: 0.6875
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: pixeldeep1
 cta:
   bucket: null
   version: null
@@ -29,18 +33,14 @@ navigation:
     id: b4991e04-c513-406f-9436-acd9e1dbb59f
     type: content
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: PD
-description: 'Design, Social & Advertising.'
-purpose: []
+name: pixeldeep1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.14212
+layout_spectrum: 0.3691756
