@@ -25,7 +25,7 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: Test link for bio
+  - name: Click Here
     id: b4991e04-c513-406f-9436-acd9e1dbb59f
     type: content
 favicon: null
