@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[pixeldeep1]]></title>
-        <description><![CDATA[pixeldeep1]]></description>
+        <title><![CDATA[PD]]></title>
+        <description><![CDATA[PD]]></description>
         <link>https://thegrid.ai/pixeldeep1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 08:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 04:26:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pixeldeep1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/229da083-39d1-4e45-800f-c26982157d3f.jpg">]]></description>
             <link>https://thegrid.ai/pixeldeep1/digital-marketing/index.html</link>
             <guid isPermaLink="false">6f1ae835-759b-4432-9ec0-7c47252c530a</guid>
-            <pubDate>Wed, 13 Apr 2016 08:43:30 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2016 04:26:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4213d188-8748-4ce7-93bc-a9f2c7b7ea2c.jpg">]]></description>
+            <link>https://thegrid.ai/pixeldeep1/b4991e04-c513-406f-9436-acd9e1dbb59f/index.html</link>
+            <guid isPermaLink="false">b4991e04-c513-406f-9436-acd9e1dbb59f</guid>
+            <pubDate>Fri, 02 Sep 2016 04:26:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/pixeldeep1/digital-images/index.html</link>
             <guid isPermaLink="false">cf417fca-2219-4525-b12b-1f6821093152</guid>
             <pubDate>Wed, 13 Apr 2016 07:18:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4213d188-8748-4ce7-93bc-a9f2c7b7ea2c.jpg">]]></description>
-            <link>https://thegrid.ai/pixeldeep1/b4991e04-c513-406f-9436-acd9e1dbb59f/index.html</link>
-            <guid isPermaLink="false">b4991e04-c513-406f-9436-acd9e1dbb59f</guid>
-            <pubDate>Wed, 13 Apr 2016 07:18:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
