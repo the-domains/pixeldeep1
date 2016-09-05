@@ -19,11 +19,11 @@ app_links: []
 isBasedOnUrl: >-
   https://business.facebook.com/pixeldeepstudio/photos/a.176123405770528.42056.106453122737557/803137506402445/?type=3&theater
 title: 美國知名球鞋品牌 K-SWISS亞洲是我們服務社群媒體超過四年的一位老朋友，Pixel Deep
-datePublished: '2016-09-02T05:26:37.452Z'
-dateModified: '2016-09-02T05:26:28.052Z'
+datePublished: '2016-09-02T05:27:02.122Z'
+dateModified: '2016-09-02T05:27:01.563Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-09-02-k-swisspixel-deep.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
