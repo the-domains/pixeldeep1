@@ -1,9 +1,30 @@
-favicon: null
-name: pixeldeep1
+typography_spectrum: 0.14212
+color:
+  saturation: 0.9375
+  brandStrength: 0.0625
+  rhythmicContrast: 0.5
+  brandColors:
+    - '#9aa7af'
+    - '#ce4123'
+    - '#56555a'
+    - '#16dffd'
+    - '#fe7966'
+  lightness: 0.6875
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: pixeldeep1
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -16,25 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: PD
 purpose: []
-color:
-  saturation: 0.9375
-  brandStrength: 0.0625
-  rhythmicContrast: 0.5
-  brandColors:
-    - '#9aa7af'
-    - '#ce4123'
-    - '#56555a'
-    - '#16dffd'
-    - '#fe7966'
-  lightness: 0.6875
-typography_spectrum: 0.14212
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
