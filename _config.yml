@@ -24,6 +24,10 @@ cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: Test link for bio
+    id: b4991e04-c513-406f-9436-acd9e1dbb59f
+    type: content
 favicon: null
 collections:
   - index:
