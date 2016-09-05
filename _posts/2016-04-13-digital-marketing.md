@@ -6,12 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: Digital Marketing
-datePublished: '2016-04-13T08:43:30.803Z'
-dateModified: '2016-04-13T08:43:29.995Z'
+datePublished: '2016-09-02T04:26:40.107Z'
+dateModified: '2016-09-02T04:26:39.497Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-13-digital-marketing.md
-published: true
 authors: []
 publisher:
   name: null
