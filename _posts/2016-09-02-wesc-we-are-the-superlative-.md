@@ -22,11 +22,11 @@ app_links: []
 isBasedOnUrl: >-
   https://business.facebook.com/pixeldeepstudio/photos/a.176123405770528.42056.106453122737557/803137373069125/?type=3&theater
 title: 我們經營瑞典知名的潮流品牌WeSC (We Are the Superlative ...
-datePublished: '2016-09-02T05:19:07.820Z'
-dateModified: '2016-09-02T05:18:51.738Z'
+datePublished: '2016-09-02T05:20:17.559Z'
+dateModified: '2016-09-02T05:20:16.968Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-09-02-wesc-we-are-the-superlative-.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
